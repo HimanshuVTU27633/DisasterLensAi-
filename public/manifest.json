@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "DisasterLens AI — India Emergency Command",
+  "short_name": "DisasterLens",
+  "description": "AI-Powered Disaster Intelligence, Doppler Radar & Emergency Alert Dissemination for India",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#060913",
+  "theme_color": "#06b6d4",
+  "orientation": "portrait-primary",
+  "categories": ["weather", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "DisasterLens AI — AI-Powered Disaster Intelligence & Response Prioritization",
+  "description": "Futuristic disaster intelligence command center featuring Google Maps situational awareness, Gemini multimodal hazard analysis, transparent AI response prioritization, and multilingual emergency alert dissemination.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
